@@ -65,3 +65,10 @@ body {
   border-image: linear-gradient(yellow, tomato);
   border-image-slice: 1;
 }
+
+/* Footer Section */
+footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #ededed;
+}
