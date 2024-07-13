@@ -44,3 +44,24 @@ body {
   background-repeat: no-repeat;
   background-position: right;
 }
+
+/* Experiance Section */
+.experiance-section h1 {
+  padding-left: 20px;
+}
+.exeriance-item {
+  border-left: 4px solid;
+  width: 40%;
+  margin: 0 5% 0 5%;
+  box-shadow: 15px 15px 30px lightgray;
+  padding: 20px;
+}
+
+#full-stack {
+  border-image: linear-gradient(red, blue);
+  border-image-slice: 1;
+}
+#baby-dev {
+  border-image: linear-gradient(yellow, tomato);
+  border-image-slice: 1;
+}
